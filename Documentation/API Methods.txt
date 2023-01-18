@@ -52,7 +52,7 @@
         Task<List<Color>> GetColorsAsync();
 
         /// <summary>
-        /// GET All Colors
+        /// GET All Sizes
         /// Returns all sizes in the database 
         /// </summary>
         Task<List<Size>> GetSizesAsync();  
